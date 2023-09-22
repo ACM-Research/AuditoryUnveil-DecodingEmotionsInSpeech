@@ -1,0 +1,111 @@
+Title 
+Auditory Unveil: Decoding emotions in speech via deep learning
+Description
+The emotion behind human speech plays a significant role in almost every activity we perform in our daily lives. From communication to interpretation, emotion plays a key role in every response we give. Wouldn’t it be interesting if a machine could recognize the exact emotion in an audio clip?
+Speech Emotion Detection or SER plays an integral part in advancing Human Computer Interactions. In this project, you will learn how to analyze audio frequencies and patterns using librosa. You will also make a CNN (Convolutional Neural Network) learning model that will teach the system to recognize the various emotions. Our goal is to make a model that can accurately predict the emotion behind speech.
+
+Faculty Advisor
+Dr Yapeng Tian
+
+Timeline
+Week 1
+Objectives
+•	Get to know each other, play an icebreaker
+•	Overview of the project 
+•	Connect as a team on messaging platforms for future comms
+•	Join the ACM Research Discord
+Homework
+•	Watch an introduction video on CNN’s 
+https://www.youtube.com/watch?v=zfiSAzpy9NM
+
+
+Week 2
+Objectives
+•	Discuss their understanding of CNN’s from last week
+•	Answer any related queries
+•	Install Python 
+Download Python
+•	Set up Deepnote (collaborative jupyter notebook) or any other collaborative platform
+
+
+Week 3
+Objectives
+•	Go through the audio dataset
+•	Understand the difference between the four types of audio sets (Ravdess, Crema, Tess and Savee)
+•	Introduce audio representation using librosa (python package for music and audio analysis)
+
+Homework
+•	Schedule the first meeting with the Faculty Advisor
+o	When2meet Link: (TBA)
+•	Show up to the meeting with the Faculty Advisor with prepared knowledge
+
+
+Week 4
+Can start getting into research after making contact with our Faculty Advisor
+Objectives 
+•	Look into Data Augmentation techniques
+•	Research into best augmentation techniques after talking to professor
+•	Introduction to feature extraction and understand what it is used for
+
+
+Week 5
+Objectives 
+•	Figure out the most efficient methods for features extraction and incorporate into code
+•	Dive into Data Preparation for training and testing
+•	Schedule the next meeting with Faculty Advisor:
+o	When2Meet Link: (TBA)
+Homework
+•	Work on the model and collaborate on Discord.
+•	Go ahead and schedule the meeting with Faculty Advisor
+
+Week 6
+
+Objectives
+•	Get started on the model 
+•	To Understand model building
+o	Watch: https://www.youtube.com/watch?v=ZN6P_GEJ7lk&list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S&index=3
+•	Introduction to ACM Poster and LaTEX
+
+Homework
+•	Collaborate on trials and testing of the model to obtain more efficiency
+•	Contact me for questions and queries
+
+
+Week 7 
+
+Objectives
+•	Big emphasis on exterminating all bugs and smoothing everything down.
+•	Discuss current progress on the model
+•	Assign ACM Poster responsibilities 
+•	We should have met or are going to meet with the Faculty Advisor again. Discuss current progress and evaluate if we need to make any changes.
+•	Schedule the next meeting with Faculty Advisor:
+o	When2Meet Link: (TBA)
+
+Homework
+•	Get LaTEX environment installed or use OverLeaf
+o	Install LaTeX Workshop and compile PDF in VSCode LaTeX (Windows) 
+•	Meet with the Faculty Advisor
+
+
+Week 8
+Objectives
+•	Divide work and start making the ACM poster.
+•	Discuss appearances and visual representation (graphs, waveplots, etc)
+•	Fine tune model as required and take feedback from professor
+
+
+
+
+Week 9
+Objectives
+•	Finalize documentation and research on the ACM poster and GitHub
+
+Homework:
+•	Finish ACM poster
+•	Finish ACM presentation
+•	Rehearse and rehearse the presentation
+•	Give promotional documents to ACM directors for Symposium Night
+o	ACM Poster, Description, etc 
+
+
+Good luck with symposium night!
