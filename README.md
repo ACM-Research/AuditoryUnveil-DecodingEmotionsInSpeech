@@ -2,7 +2,7 @@
 Uses audio analysis along with a Convolutional Neural Network model to detect emotions in speech.
 
 
-![Auditory_Unveil Research Poster](README_IMG/Auditory_Unveil_Poster.png)
+![Auditory_Unveil Research Poster](Auditory_Unveil_Poster.png)
 
 ## Overview
 
